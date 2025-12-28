@@ -1,2 +1,10 @@
+# Dependencias
 node_modules/
+
+# Compilación (TypeScript)
+dist/
+build/
+out/
+
+# Variables de entorno (¡Seguridad!)
 .env
